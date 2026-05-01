@@ -25,7 +25,7 @@
 ```python
 class heetkumarbhalani:
     def __init__(self):
-        self.role       = "AI/ML Engineer — NLP & Computer Vision"
+        self.role       = "AI/ML Engineer — LLM & Computer Vision"
         self.education  = "M.Eng. @ OTH Regensburg 🇩🇪"
         self.location   = "Regensburg, Germany 📍"
         self.focus      = ["Model Robustness", "Medical Imaging", "NLP Systems", "MLOps"]
@@ -100,7 +100,7 @@ class heetkumarbhalani:
 ## 💼 Experience
 
 ```
-💻  05/2025 – 10/2025    Master Thesis Student        @ Schölly fiberoptic (B.Brown Group)            (AI & Computer Vision for Medical Imaging)
+💻  05/2025 – 10/2025    Master Thesis Student        @ Schölly fiberoptic (B.Brown Group)     (AI & Computer Vision for Medical Imaging)
 💻  09/2024 – 03/2025    Student Research Assistant   @ Fraunhofer IVI     (Deep learning & Software Dev.)
 
 ```
