@@ -79,8 +79,8 @@ class ZeeshanModi:
 
 <div align="center">
 
-<img src="https://github-readme-stats-henna-sigma-54.vercel.app/api?username=Heet010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" height="170">
-<img src="https://github-readme-stats-henna-sigma-54.vercel.app/api/top-langs/?username=Heet010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=Heet010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=00F7FF&text_color=FFFFFF&rank_icon=github" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heet010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="170">
 
 <br/><br/>
 
