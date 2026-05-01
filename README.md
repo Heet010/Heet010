@@ -103,7 +103,7 @@ class ZeeshanModi:
 ## 💼 Experience
 
 ```
-💻  05/2025 – 10/2025    Master Thesis Student           @ Schölly fiberoptic (B.Brown Group)               (AI & Computer Vision for Medical Imaging)
+💻  05/2025 – 10/2025    Master Thesis Student        @ Schölly fiberoptic (B.Brown Group)            (AI & Computer Vision for Medical Imaging)
 💻  09/2024 – 03/2025    Student Research Assistant   @ Fraunhofer IVI     (Deep learning & Software Dev.)
 
 ```
@@ -111,7 +111,7 @@ class ZeeshanModi:
 ## 🎓 Education
 
 ```
-🎓  10/2023 – 03/2026    M.Eng Electrical and Microsystems Engineering    @ OTH Regensburg, Germany
+🎓  10/2023 – 03/2026    M.Eng Electrical and Microsystems Engineering  @ OTH Regensburg, Germany
 🎓  07/2017 – 06/2021    B.Tech Electrical Engineering  @ Nirma University, India
 
 ```
