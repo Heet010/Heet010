@@ -10,7 +10,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heetkumar-bhalani-7a52a6190/)
 &nbsp;
-[![Website](https://img.shields.io/badge/litends.com-A855F7?style=flat-square&logo=firefox&logoColor=white)](https://heetbhalani.vercel.app/)
+[![Website](https://img.shields.io/badge/vercel.com-A855F7?style=flat-square&logo=firefox&logoColor=white)](https://heetbhalani.vercel.app/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:heetbhalani99@gmail.com)
 &nbsp;
