@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Heet010/Heet010/main/assets/header.svg?v=3" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=M.Sc.+AIIS+%40+University+of+Bremen+%F0%9F%87%A9%F0%9F%87%AA;Building+intelligent+systems+that+ship+%F0%9F%9A%80;NLP+%7C+Computer+Vision+%7C+Medical+AI+%F0%9F%A7%A0;Founder+%40+Litends+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=M.Eng.+%40+OTH+Regensburg+%F0%9F%87%A9%F0%9F%87%AA;Building+intelligent+systems+that+ship+%F0%9F%9A%80;LLM+%7C+Computer+Vision+%7C+Medical+AI+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,13 +23,13 @@
 ## 🧬 About Me
 
 ```python
-class ZeeshanModi:
+class heetkumarbhalani:
     def __init__(self):
         self.role       = "AI/ML Engineer — NLP & Computer Vision"
         self.education  = "M.Eng. @ OTH Regensburg 🇩🇪"
         self.location   = "Regensburg, Germany 📍"
         self.focus      = ["Model Robustness", "Medical Imaging", "NLP Systems", "MLOps"]
-        self.languages  = ["Python", "C++", "SQL", "Bash"]
+        self.languages  = ["Python", "C++", "Bash"]
 
     def currently(self):
         return "Building intelligent systems that bridge research & real-world impact 🚀"
